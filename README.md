@@ -1,9 +1,7 @@
 ### Hi there, I'm Josh 👋
 
-I'm an IT systems engineer based in the UK with a keen interest in automation and generally learning as much as I can! Outside of my work life I am studying for a degree in engineering, and spend a lot of spare time at my local community theatre as an amateur sound designer and technician.
+I'm a Systems Engineer based in the UK with a keen interest in automation and generally learning as much as I can! Outside of my work life I am studying for a degree in engineering, and also spend my free time exploring the world of theatrical sound and lighting design.
 
-- 🌱 I’m currently learning Terraform and Golang
+- 🌱 I’m currently learning AWS tooling and services
 - 👨‍💻 My preferred languages/tools are Python, bash and Ansible.
 - 🌀 My operating system of choice is Debian (and Ubuntu)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbayfield&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
